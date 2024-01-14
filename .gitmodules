@@ -1,0 +1,3 @@
+[submodule "rospy_tutorial"]
+	path = rospy_tutorial
+	url = git@github.com:henryboyboy/rospy_tutorial.git
